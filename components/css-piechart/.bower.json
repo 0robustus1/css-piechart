@@ -1,0 +1,27 @@
+{
+  "name": "css-piechart",
+  "authors": [
+    "Uemit Seren <uemit.seren@gmail.com>"
+  ],
+  "description": "Element to draw a piechart using DOM and CSS3.",
+  "keywords": "piechart, polymer, web-components",
+  "main": "css-piechart.html",
+  "license": "MIT",
+  "homepage": "https://github.com/timeu/css-piechart/",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  },
+  "_release": "1aec680923",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1aec68092343504a9ca208068a31920b7e901525"
+  },
+  "_source": "git://github.com/timeu/css-piechart.git",
+  "_target": "master",
+  "_originalSource": "timeu/css-piechart",
+  "_direct": true
+}
